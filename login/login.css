@@ -1,0 +1,58 @@
+#title {
+  background-color: #628efe;
+  display: flex;
+  padding-left: 100px;
+  align-items: center;
+  height: 100px;
+  color: white;
+}
+#body {
+  text-align: center;
+}
+#login_title {
+  margin-top: 110px;
+  font-size: 40px;
+  font-weight: bold;
+}
+#input_id {
+  margin-top: 110px;
+  width: 390px;
+  height: 67px;
+  font-size: 22px;
+  text-align: center;
+  border-radius: 10px;
+  border-color: #787878;
+  border-width: 3px;
+}
+#input_pw {
+  margin-top: 10px;
+  width: 390px;
+  height: 67px;
+  font-size: 22px;
+  text-align: center;
+  border-radius: 10px;
+  border-color: #787878;
+  border-width: 3px;
+}
+#input_login {
+  background-color: #628efe;
+  width: 398px;
+  height: 72px;
+  color: white;
+  font-size: 20px;
+  border-color: white;
+  font-size: 22px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+#input_signin {
+  background-color: #628efe;
+  width: 398px;
+  height: 72px;
+  color: white;
+  font-size: 20px;
+  border-color: white;
+  font-size: 22px;
+  font-weight: bold;
+  border-radius: 10px;
+}
